@@ -1,0 +1,4 @@
+item_id,item_name,change,sold,est_stock
+ITEM001,Milk 1L,20,3,17
+ITEM002,Bread,0,1,-1
+ITEM003,Eggs (dozen),10,1,9
