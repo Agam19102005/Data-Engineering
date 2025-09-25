@@ -1,9 +1,3 @@
-Welcome to the DEL_40 Repository! This repository contains multiple assignments and experiments related to data engineering and analytics projects.
-
-Branches Overview
-Assignment 1.1
-Initial coursework assignment covering foundational concepts.
-
 Experiment 1 (Assignment 2)
 Follow-up experiment extending Assignment 1 with practical implementations.
 
