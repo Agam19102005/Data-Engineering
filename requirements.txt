@@ -1,0 +1,5 @@
+psycopg2-binary==2.9.6
+SQLAlchemy==2.0.19
+alembic==1.11.1      # optional if you want migrations
+Flask==2.3.3         # optional for REST API
+python-dotenv==1.0.0 # optional to load .env config

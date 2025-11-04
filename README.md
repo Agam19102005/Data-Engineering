@@ -1,3 +1,0 @@
-Employee Management System using Python and PostgreSQL: Develop a Python-based system to manage employee data using a PostgreSQL relational database. The system must support the creation, retrieval, and management of employees, departments, and roles, and demonstrate the implementation of basic CRUD (Create, Read, Update, Delete) operations.
-
-
